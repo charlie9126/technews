@@ -1,0 +1,2 @@
+# technews
+page technews
